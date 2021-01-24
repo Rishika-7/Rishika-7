@@ -3,8 +3,8 @@
   <a href="https://www.linkedin.com/in/rishika-j/">
     <img alt="Rishika Jain | Linkedin" width="24px" src="https://github.com/Rishika-7/Rishika-7/blob/master/images/Linkedin.svg" />
   </a> &nbsp;
-  <a href="mailto:balharatanvee@gmail.com">
-    <img alt="Tanvee Balhara | Gmail" width="26px" src="https://github.com/Rishika-7/Rishika-7/blob/master/images/Gmail.svg" />
+  <a href="mailto:rishikajain028@gmail.com">
+    <img alt="Rishika Jain | Gmail" width="26px" src="https://github.com/Rishika-7/Rishika-7/blob/master/images/Gmail.svg" />
 </p> 
 <br/>
 <!--
