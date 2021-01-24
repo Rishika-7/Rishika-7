@@ -12,12 +12,14 @@ I am a **Women Techmakers Engineering Fellow** under *Google* and *TalentSprint*
 
 I am also a *Head Coordinator* and mentor at the **Computer Society of India, Student Chapter - Jaipur** in our college. We aim to build a community with a strong growth mindset at our college. Our motto is *Sabka saath, sabka vikas*
 
+---
 
 - 🔭 I’m currently working on a Research Project at Samsung PRISM
 - 🌱 I’m currently learning DSA and ML
 - 😄 Pronouns: It
 - ⚡ Fun fact: I am an Indian Classical Dancer
-- 📫 How to reach me:
+
+### Reach out to me on
 <p align="left">
   <a href="https://www.linkedin.com/in/rishika-j/">
     <img alt="Rishika Jain | Linkedin" width="24px" src="https://github.com/Rishika-7/Rishika-7/blob/master/assets/Linkedin.svg" />
