@@ -1,4 +1,4 @@
->*Cogito, ergo sum :: I think, therefore I am*
+>*"The first step of any project is to grossly underestimate its complexity and difficulty." ~ Nicoll Hunt*
 
 # Hello Earthlings! <img src="https://github.com/Rishika-7/Rishika-7/blob/master/assets/Hi.gif" width="29px">
 
