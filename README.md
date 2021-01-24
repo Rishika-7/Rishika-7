@@ -1,3 +1,5 @@
+>*Cogito, ergo sum :: I think, therefore I am*
+
 ## Helloo Earthlings!  Welcome to my Github page! <img src="https://github.com/Rishika-7/Rishika-7/blob/master/assets/Hi.gif" width="29px">  
 <p align="right">
   <a href="https://www.linkedin.com/in/rishika-j/">
