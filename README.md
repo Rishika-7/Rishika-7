@@ -1,5 +1,12 @@
-### Hi there 👋
-
+## Helloo Earthlings!  Welcome to my Github page! <img src="https://github.com/Rishika-7/Rishika-7/blob/master/images/Hi.gif" width="29px">  
+<p align="right">
+  <a href="https://www.linkedin.com/in/rishika-j/">
+    <img alt="Rishika Jain | Linkedin" width="24px" src="https://github.com/Rishika-7/Rishika-7/blob/master/images/Linkedin.svg" />
+  </a> &nbsp;
+  <a href="mailto:balharatanvee@gmail.com">
+    <img alt="Tanvee Balhara | Gmail" width="26px" src="https://github.com/Rishika-7/Rishika-7/blob/master/images/Gmail.svg" />
+</p> 
+<br/>
 <!--
 **Rishika-7/Rishika-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
