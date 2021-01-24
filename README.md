@@ -1,7 +1,14 @@
 >*Cogito, ergo sum :: I think, therefore I am*
 
-## Helloo Earthlings!  Welcome to my Github page! <img src="https://github.com/Rishika-7/Rishika-7/blob/master/assets/Hi.gif" width="29px">  
-<p align="right">
+# Hello Earthlings! <img src="https://github.com/Rishika-7/Rishika-7/blob/master/assets/Hi.gif" width="29px">
+
+### Rishika here! Your friendly nextdoor alien.👽
+
+<p>
+I am a CSE undergrad at Birla Institute of Technology, Mesra (Jaipur Campus). My first programming language is `Python`. I need to code in `C` for the college coding labs and I recently picked up `C++`. I love exploring new tech and I tend to ask too many questions, let's just say my curiosity is difficult to quench. 
+</p>
+<br/>
+<p align="left">
   <a href="https://www.linkedin.com/in/rishika-j/">
     <img alt="Rishika Jain | Linkedin" width="24px" src="https://github.com/Rishika-7/Rishika-7/blob/master/assets/Linkedin.svg" />
   </a> &nbsp;
