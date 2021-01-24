@@ -1,10 +1,10 @@
 ## Helloo Earthlings!  Welcome to my Github page! <img src="https://github.com/Rishika-7/Rishika-7/blob/master/assets/Hi.gif" width="29px">  
 <p align="right">
   <a href="https://www.linkedin.com/in/rishika-j/">
-    <img alt="Rishika Jain | Linkedin" width="22px" src="https://github.com/Rishika-7/Rishika-7/blob/master/assets/Linkedin.svg" />
+    <img alt="Rishika Jain | Linkedin" width="24px" src="https://github.com/Rishika-7/Rishika-7/blob/master/assets/Linkedin.svg" />
   </a> &nbsp;
   <a href="mailto:rishikajain028@gmail.com">
-    <img alt="Rishika Jain | Gmail" width="26px" src="https://github.com/Rishika-7/Rishika-7/blob/master/assets/Gmail.svg" />
+    <img alt="Rishika Jain | Gmail" width="22px" src="https://github.com/Rishika-7/Rishika-7/blob/master/assets/Gmail.svg" />
 </p> 
 <br/>
 <!--
