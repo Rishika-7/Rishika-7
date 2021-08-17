@@ -4,7 +4,7 @@
 
 #### Rishika here! Your friendly nextdoor alien 👽
 
-I am a CSE undergrad at Birla Institute of Technology, Mesra (Jaipur Campus). My first programming language is `Python`. I need to code in `C` for the college coding labs and I recently picked up `C++`. I love exploring new tech and I tend to ask too many questions, let's just say my curiosity is difficult to quench. 
+I am a CSE undergrad at Birla Institute of Technology, Mesra (Jaipur Campus). My first programming language is `Python`. I need to code in `Java` for the college coding labs and I recently picked up `C++`. I love exploring new tech and I tend to ask too many questions, let's just say my curiosity is difficult to quench. 
 
 ### My Communities <img src="https://pbs.twimg.com/profile_images/1093585928642162688/oVdX1KD-.jpg" alt="WTM" width="25" height="25"/> <img src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1489131517/tbocpzcm3bnpjdscmlhc.png" alt="WTM" width="25" height="25"/> 
 
@@ -14,9 +14,9 @@ I am also a *Head Coordinator* and mentor at the **Computer Society of India, St
 
 ---
 
-- 🔭 I’m currently working on a Research Project at Samsung PRISM
-- 🌱 I’m currently learning DSA and ML
-- 😄 Pronouns: It
+- 🔭 Actively looking for internships
+- 🌱 Currently learning DSA and ML
+- 😄 Pronouns: It 
 - ⚡ Fun fact: I am an Indian Classical Dancer
 
 ### Reach out to me on
